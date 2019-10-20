@@ -18,8 +18,7 @@ mybatis:  configuration:    default-statement-timeout: 30
   
 #log
 logging:  level:    com.cy: trace
-    
-#自定义线程池不用
+
     
     
     
